@@ -4,7 +4,7 @@ This document contains links and instructions regarding the dataset and approach
 # How to obtain the dataset
 Download the dataset.zip archive from the link below:
 
-[INSERT LINK]
+[https://github.com/anonymous-programmers/BugReportAssignment/blob/master/SQL_BugDatabase_Dump.7z](https://github.com/anonymous-programmers/BugReportAssignment/blob/master/SQL_BugDatabase_Dump.7z)
 
 Once unzipped, the dataset folder will contain a SQL dump that, when run, will create the database and tables, and populate the tables with data.
 
@@ -48,12 +48,12 @@ If bug 420972 is the first bug processed by the system, we check out its before-
 # Extracted Feature Values
 The .CSV files containing our extracted feature values can be found at: 
 
-[INSERT LINK]
+[https://github.com/anonymous-programmers/BugReportAssignment/blob/master/ExtractedFeatures.zip](https://github.com/anonymous-programmers/BugReportAssignment/blob/master/ExtractedFeatures.zip)
 
 # SVMrank Model
 We have provided the models created as a result of training Joachims' learning to rank model on historical bug fixing data.  Additionally, we have included our extracted features formatted into .dat files that can be inputted into the model to generate ranking outputs.  For more information on the SVMrank tool, see [https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html](https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html). Our models and .dat files can be found here:
 
-[INSERT LINK]
+[https://github.com/anonymous-programmers/BugReportAssignment/blob/master/SVMrank_Models.zip](https://github.com/anonymous-programmers/BugReportAssignment/blob/master/SVMrank_Models.zip)
 
 # Deep Learning Azure Project
 The Azure Machine Learning Project used to create our Deep Learning based results is made available in the Azure AI Gallery at the link below. The Experiment trains an Ordinal Regression Model on all 9 binary classifiers for comparison, but only the boosted decision tree classifier is used in our study. Please note that this repository is unlisted and can only be viewed from the link below:
