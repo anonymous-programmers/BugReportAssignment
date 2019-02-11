@@ -58,4 +58,4 @@ We have provided the models created as a result of training Joachims' learning t
 # Deep Learning Azure Project
 The Azure Machine Learning Project used to create our Deep Learning based results is made available in the Azure AI Gallery at the link below. The Experiment trains an Ordinal Regression Model on all 9 binary classifiers for comparison, but only the boosted decision tree classifier is used in our study. Please note that this repository is unlisted and can only be viewed from the link below:
 
-[https://gallery.azure.ai/Experiment/Ordinal-Regression-for-Bug-Triage-2](https://gallery.azure.ai/Experiment/Ordinal-Regression-for-Bug-Triage-2)
+(Link Omitted for Double Blind Review)
